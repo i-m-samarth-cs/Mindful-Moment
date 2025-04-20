@@ -1,0 +1,2 @@
+/* This is a mock service worker that would be used in production for caching data and providing offline functionality.
+   For the purpose of this hackathon prototype, we're just showing the file structure. */
